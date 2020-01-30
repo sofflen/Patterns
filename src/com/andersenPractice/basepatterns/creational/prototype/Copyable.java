@@ -1,0 +1,5 @@
+package com.andersenPractice.basepatterns.creational.prototype;
+
+public interface Copyable {
+    Object copy();
+}
